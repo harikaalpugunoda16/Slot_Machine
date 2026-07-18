@@ -84,23 +84,6 @@ python slot_machine.py
 
 ![Slot Machine Output](slot_machine_output.png)
 
-```text
-******************************
-🎰 Python Slot Machine 🎰
-******************************
-
-Current Balance: $100
-
-Enter your bet amount: 20
-
-🍒 | 🍒 | 🍒
-
-Congratulations! You won $60!
-
-Current Balance: $140
-```
-
----
 
 ## 📚 Python Concepts Used
 
