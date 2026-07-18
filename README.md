@@ -80,7 +80,9 @@ python slot_machine.py
 
 ---
 
-## 📸 Sample Output
+## 📸 Sample Output 
+
+![Slot Machine Output] (slot_machine_output.png)
 
 ```text
 ******************************
